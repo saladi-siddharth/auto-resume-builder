@@ -1,0 +1,36 @@
+.resume-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  background: white;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+header {
+  text-align: center;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 10px;
+}
+h1 {
+  font-size: 2rem;
+  color: #1f2937;
+}
+h2 {
+  font-size: 1.5rem;
+  color: #2563eb;
+  margin-top: 20px;
+}
+.experience, .education {
+  margin: 10px 0;
+}
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+.skills li {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px 10px;
+  background: #e5e7eb;
+  border-radius: 5px;
+}
